@@ -1,0 +1,13 @@
+Sample,Rock type,Mineral,TempMet,sTM,PlotTemp,sTP,Age,SigmaAge,Unit,Fabric,Rank1,Rank2
+FC-80B,amph,Hb,760,55,500,55,167.4,1.9,Amphibolite,S$_{1}^{A}$,1,1
+FC-83,amph,Hb,590,70,500,55,164.8,1.5,Amphibolite,S$_{2}^{A}$,2,1
+FC-82,qms,Wm,530,55,400,55,165.3,1.4,Na-amphibole schist,S$_{1}^{N}$,4,3
+FC-68,RG amph,Wm,<400,50,360,50,162.5,0.9,Amphibolite,S$_{3}^{A}$,3,1
+FC-90,nas,Wm,360,135,360,135,157,1.9,Na-amphibole schist,S$_{2}^{N}$,5,3
+FC-90,nas,Wm,,,,,167,1.7,Na-amphibole schist,S$_{?}^{N}$,5,3
+FC-84,metasom,Wm,350,90,350,90,160.1,1.3,Metasomatic schist,S$_{2}^{A}$,2,2
+FC-91,gs,Wm,360,55,360,55,139.5,0.8,Shuksan greenschist/blueschist,S$_{1}^{G}$,7,5
+FC-9,bs,Wm,280,50,280,50,136.7,0.8,Shuksan greenschist/blueschist,S$_{2}^{G}$,8,5
+FC-36,bs,Wm,<400,50,350,50,139,2.4,Shuksan greenschist/blueschist,S$_{2}^{G}$,8,5
+FC-7,phyl,Wm,320,40,317,40,141.9,1.4,Darrington phyllite,S$_{2}^{P}$,6,4
+FC-37,phyl,Wm,310,30,310,30,148,1.2,Darrington phyllite,S$_{2}^{P}$,6,4
