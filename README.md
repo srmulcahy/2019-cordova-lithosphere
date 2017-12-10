@@ -2,10 +2,10 @@
 
 ## Early subduction evolution of the Easton Metamorphic Suite (in prep)
 
-**Jeremey Cordova$^{1}$, Sean R. Mulcahy$^{1}$, Elizabeth R. Schermer$^{1}$, Laura E. Webb$^{2}$**
+**Jeremey Cordova<sup>1</sup>, Sean R. Mulcahy<sup>1</sup>, Elizabeth R. Schermer<sup>1</sup>, Laura E. Webb<sup>2</sup>**
 
-*$^{1}$ Department of Geology, Western Washington University, Bellingham, WA, 98225, USA*  
-*$^{2}$ Department of Geology, Univeristy of Vermont, Burlington, VT, 05401, USA*
+*<sup>1</sup>Department of Geology, Western Washington University, Bellingham, WA, 98225, USA*  
+*<sup>2</sup> Department of Geology, Univeristy of Vermont, Burlington, VT, 05401, USA*
 
 This Jupyter notebook documents the data, data analysis and figure generation used for the manuscript:
 
