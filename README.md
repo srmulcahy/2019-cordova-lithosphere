@@ -1,4 +1,4 @@
-# Cordova et al., 2018
+# Cordova et al., 2019
 
 ## Subduction initiation and early evolution of the Easton metamorphic suite, northwest Cascades, Washington
 
